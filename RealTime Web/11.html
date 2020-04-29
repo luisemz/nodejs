@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>11.html</title>
+    </head>
+    <body>
+        <h1>11.html</h1>
+    </body>
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        var socket = io.connect('/');
+        socket.on('connect', function() {
+            console.log('Connected');
+        });
+
+        socket.on('disconnect', function () {
+            console.log('Disconnected');
+        });
+    </script>
+</html>
