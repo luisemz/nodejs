@@ -1,4 +1,4 @@
-# nodejs
+# NodeJS
 All NodeJS projects made from course
 
 ## RESTful Web Services
@@ -11,3 +11,6 @@ All NodeJS projects made from course
 > A group of advanced NodeJS implementations.
 1. BigFiles.
 2. ChildProcesses
+3. Callbacks, Promise and Async:Await
+4. LoadBalancing
+5. Chat
