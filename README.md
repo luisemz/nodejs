@@ -14,3 +14,6 @@ All NodeJS projects made from course
 3. Callbacks, Promise and Async:Await
 4. LoadBalancing
 5. Chat
+
+## SingleBack - (SQL-TS)
+> A NodeJS backend web app made with TypeScript and connect to databases SQL
